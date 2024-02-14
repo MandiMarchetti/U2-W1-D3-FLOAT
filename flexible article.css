@@ -1,0 +1,26 @@
+
+/*FLEXIBLE ARTICLE*/
+.box{
+    background-color: #fbf7e3;
+    border-radius: 15px;
+    display: flex;
+    margin: 10px;
+       
+}
+.container{
+    display: flex;
+    padding: 1rem;
+   
+
+}
+img{
+    max-width: 500px;
+   object-fit: cover;
+    
+}
+.text h3, p{
+    color: #672c0e;
+    padding: 8px 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
